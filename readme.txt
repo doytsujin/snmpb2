@@ -1,4 +1,7 @@
-SnmpB is a desktop SNMP browser and MIB editor written with Qt.
+SnmpB2 is a fork of SnmpB which is a desktop SNMP browser and MIB editor written with Qt.
+The goal of this fork is to have something barely up-to-date et compilable.
+
+SnmpB README :
 
 Supported features:
  + custom MIB loading & editing
